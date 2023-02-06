@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WbloJhNw0DPyurcD/gvr2BdvjFMmLyU8RhB/zIPR4cFiy4wNhk389gSqG2uXhdo4Dwb3vSssLjW1K8Aj92W0Pg==",
+  "success": true,
+  "projectFilePath": "E:\\MQTT\\ConsoleApp1\\ConsoleApp1\\MQTTServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mqttnet.aspnetcore\\4.1.4.563\\mqttnet.aspnetcore.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": []
+}
